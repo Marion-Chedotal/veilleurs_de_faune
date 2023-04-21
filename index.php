@@ -92,7 +92,7 @@ try {
     
   } else { 
       $categories = Category::findAllCategories();   
-      require ('App/Views/Front/Home.php');
+      require ('App/Views/Front/home.php');
   }
 } 
 catch(Exception $e) {
