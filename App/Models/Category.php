@@ -70,7 +70,7 @@ class Category extends DbConnection
     /**
      * Display one category = > Read in CRUD 
      */
-    public function findCategory(int $idCategory): array
+    public function findCategory(int $idCategory)
     {
         try {
             $pdo = $this->connection();

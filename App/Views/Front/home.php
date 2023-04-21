@@ -1,6 +1,6 @@
 <?php
-  include('./App/Views/Front/Layout/head.php') ;
-  include('./App/Views/Front/Layout/header.php') ;
+  include('./App/Views/Front/Layout/head.php');
+  include('./App/Views/Front/Layout/header.php');
 ?>
 
 <main role="main" class="no-gutters">

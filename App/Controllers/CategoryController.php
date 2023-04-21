@@ -92,7 +92,7 @@ class CategoryController
         
         $message = "La catégorie " . $category->name . " a bien été supprimée.";
         
-        require ('App/Views/backOffice/CategoryViews/getAllCategories.php'); 
+        require ('App/Views/BackOffice/CategoryViews/getAllCategories.php'); 
     }
  
 }
