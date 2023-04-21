@@ -102,10 +102,10 @@ try {
                 break;
 
             default:
-                require ('App/Views/BackOffice/HomeAdminView.php');
+                require ('App/Views/BackOffice/homeAdminView.php');
         }
     } else { 
-        require ('App/Views/BackOffice/HomeAdminView.php');
+        require ('App/Views/BackOffice/homeAdminView.php');
     }
 } 
 catch(Exception $e) {
