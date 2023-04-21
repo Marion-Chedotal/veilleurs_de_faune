@@ -69,7 +69,3 @@ Accès au formulaire de connexion soit par la flèche près de la libellule: men
 Accès au formulaire de connexion par la flèche près de la libellule: menu déroulant (se connecter)
   - Pseudo : unveilleurdu29
   - Mot de passe : unveilleurdu29
-
-Le site est hébergé ici:
-https://www.greta-bretagne-sud.fr/stagiaires-kercode/marion-chedotal/projet/
-
