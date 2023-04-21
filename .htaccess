@@ -1,0 +1,14 @@
+### Forbid access _ Les veilleurs de Faune
+
+Options -Indexes
+
+RewriteEngine On
+
+#Interdire l'acces aux dossiers :
+RewriteRule ^(App) - [R=403,L]
+
+#Interdire l'acces au fichier .env :
+<FilesMatch "^.env$">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
