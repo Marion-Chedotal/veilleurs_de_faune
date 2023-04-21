@@ -4,6 +4,7 @@ Projet final de la formation Kercode : "Développeur intégrateur en réalisatio
 web" effectuée au sein du GRETA de Bretagne Sud (RNCP niveau 5).
 
 Il s'agit d'un site fictif.
+Le site est accessible ici: https://www.greta-bretagne-sud.fr/stagiaires-kercode/marion-chedotal/projet/
 
 Concept global du site:
 Il s'agit d'un observatoire qui référence les espèces animales menacées d'extinction en Bretagne. 
@@ -69,3 +70,4 @@ Accès au formulaire de connexion soit par la flèche près de la libellule: men
 Accès au formulaire de connexion par la flèche près de la libellule: menu déroulant (se connecter)
   - Pseudo : unveilleurdu29
   - Mot de passe : unveilleurdu29
+  
