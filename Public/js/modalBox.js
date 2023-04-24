@@ -49,7 +49,6 @@ $(document).ready(function () {
 
   $('.confirmAccountDelete').on('click', function (e) {
     let pseudo = $(this).attr('data-id');
-    console.log(pseudo);
     $('#modalAccountDelete-' + pseudo).modal('show');
   });
 
