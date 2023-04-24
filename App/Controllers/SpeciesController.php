@@ -81,7 +81,7 @@ class SpeciesController
             switch ($idCategory) {
                 // display all the species
                 case 'all':
-                    $speciesByCat = Species::findSpeciesByCategory(); 
+                    $speciesByCat = Species::findAllSpecies(); 
                     break;
                 // display the species of the choosen category
                 default:
